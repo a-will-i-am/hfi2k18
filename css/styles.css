@@ -1,7 +1,12 @@
 *{
-
 }
 
-#about_parallax {
-  padding-top: 70px;
+h1, h2{
+  font-family: bjorn;
 }
+
+/*
+This is where to change the color of sticky navbar. Line found in startup-materialize.min.css.
+nav.navbar.solid.dark,nav.navbar.solid{background-color:#fff
+
+*/
